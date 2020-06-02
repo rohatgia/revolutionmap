@@ -1,0 +1,7 @@
+{
+    "/v1": {
+        "target": "http://127.0.0.1:3501",
+        "secure": "false",
+        "changeOrigin":"true"
+    }
+}
